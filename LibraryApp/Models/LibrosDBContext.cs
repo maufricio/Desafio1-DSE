@@ -7,5 +7,6 @@ namespace LibraryApp.Models
         public LibrosDBContext(DbContextOptions options) : base(options) { }
 
         public DbSet<Libro> Libros { get; set; }
+        public DbSet<Prestamo> Prestamos { get; set;  }
     }
 }

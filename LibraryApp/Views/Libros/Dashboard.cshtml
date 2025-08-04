@@ -1,0 +1,59 @@
+﻿
+@model LibraryApp.Models.LibrosDashboard
+
+@{
+    ViewData["Title"] = "Dashboard de Libros";
+}
+
+<div class="container mt-4">
+    <div class="jumbotron text-center">
+        <h1 class="display-4">Biblioteca</h1>
+        <p class="lead">Estado actual de los libros</p>
+    </div>
+
+    <hr class="my-4">
+    <div class="row text-center">
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title text-muted">Total de Libros</h5>
+                    
+                    <div class="progress" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar bg-success" style="width: @Model.TotalLibros%"></div>
+                    </div>
+
+                    <p class="card-text fs-1 fw-bold">@Model.TotalLibros</p>
+                </div>
+            </div>
+        </div>
+        
+
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Libros Disponibles</h5>
+                    <div class="progress" role="progressbar" aria-label="Info example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar bg-success" style="width: @Model.LibrosDisponibles%"></div>
+                    </div>
+                    <p class="card-text fs-1 fw-bold">@Model.LibrosDisponibles</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title">Libros Prestados</h5>
+                    <div class="progress" role="progressbar" aria-label="Danger example" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
+                        <div class="progress-bar bg-success" style="width: @Model.LibrosPrestados%"></div>
+                    </div>
+                    <p class="card-text fs-1 fw-bold">@Model.LibrosPrestados</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <hr class="my-4">
+    <div class="mt-4 text-center">
+        <a asp-action="Index" class="btn btn-primary">Ir a la lista de libros</a>
+    </div>
+</div>

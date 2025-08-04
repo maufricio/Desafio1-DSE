@@ -40,8 +40,8 @@ app.MapControllerRoute(
     );
 
 app.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    name: "default", //modificando para que la ruta por defecto sea el Dashboard de Libros
+    pattern: "{controller=Libros}/{action=Dashboard}");
 
 
 

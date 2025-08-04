@@ -18,10 +18,42 @@ namespace LibraryApp.Controllers
             _context = context;
         }
 
-        // GET: Libros
-        public async Task<IActionResult> Index()
+        //para el Dashboard
+        public async Task<IActionResult> Dashboard()
         {
-            return View(await _context.Libros.ToListAsync());
+            
+            var todosLosLibros = await _context.Libros.ToListAsync();
+
+            var viewModel = new LibrosDashboard
+            {
+                TotalLibros = todosLosLibros.Count(),
+                LibrosDisponibles = todosLosLibros.Count(l => l.Disponible),
+                LibrosPrestados = todosLosLibros.Count(l => !l.Disponible)
+            };
+
+            return View(viewModel);
+        }
+        // GET: Libros
+        public async Task<IActionResult> Index(string buscar)
+        {
+            //para buscar libros 
+            if (_context.Libros == null)
+            {
+                return Problem("El contexto es nulo.");
+            }
+            var libros = from m in _context.Libros select m;
+
+            if (!String.IsNullOrEmpty(buscar))
+            {
+                libros = libros.Where(s => s.Titulo!.Contains(buscar));
+            }
+            
+            return View(await libros.ToListAsync());
+        }
+        [HttpPost]
+        public string Index(string buscar, bool notUsed)
+        {
+            return "From [HttpPost]Index: buscar on " + buscar;
         }
 
         // GET: Libros/Details/5

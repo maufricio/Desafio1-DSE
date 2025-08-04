@@ -4,11 +4,18 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Libros</h1>
 
 <p>
     <a asp-action="Create">Create New</a>
 </p>
+
+<form asp-controller="Libros" asp-action="Index" method="GET">
+    <p>Titulo: <input type="text" name="buscar" /> 
+        <input type="submit" value="Buscar" /></p>
+</form>
+
+
 <table class="table">
     <thead>
         <tr>
@@ -42,6 +49,7 @@
                 <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
             </td>
         </tr>
+
 }
     </tbody>
 </table>
