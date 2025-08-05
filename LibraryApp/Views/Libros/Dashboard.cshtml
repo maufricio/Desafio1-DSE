@@ -31,11 +31,11 @@
         <div class="col-md-4 mb-4">
             <div class="card shadow-sm">
                 <div class="card-body">
-                    <h5 class="card-title">Libros Disponibles</h5>
+                    <h5 class="card-title">Libros Atrasados(Devolucion Pendiente)</h5>
                     <div class="progress" role="progressbar" aria-label="Info example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
-                        <div class="progress-bar bg-success" style="width: @Model.LibrosDisponibles%"></div>
+                        <div class="progress-bar bg-success" style="width: @Model.LibrosAtrasados%"></div>
                     </div>
-                    <p class="card-text fs-1 fw-bold">@Model.LibrosDisponibles</p>
+                    <p class="card-text fs-1 fw-bold">@Model.LibrosAtrasados</p>
                 </div>
             </div>
         </div>
@@ -43,7 +43,7 @@
         <div class="col-md-4 mb-4">
             <div class="card shadow-sm">
                 <div class="card-body">
-                    <h5 class="card-title">Libros Prestados</h5>
+                    <h5 class="card-title">Libros Prestados el dia de hoy</h5>
                     <div class="progress" role="progressbar" aria-label="Danger example" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
                         <div class="progress-bar bg-success" style="width: @Model.LibrosPrestados%"></div>
                     </div>

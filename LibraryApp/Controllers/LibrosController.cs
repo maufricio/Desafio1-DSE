@@ -23,12 +23,16 @@ namespace LibraryApp.Controllers
         {
             
             var todosLosLibros = await _context.Libros.ToListAsync();
+            var todosLosPrestamos = await _context.Prestamos.ToListAsync();
 
             var viewModel = new LibrosDashboard
             {
                 TotalLibros = todosLosLibros.Count(),
-                LibrosDisponibles = todosLosLibros.Count(l => l.Disponible),
-                LibrosPrestados = todosLosLibros.Count(l => !l.Disponible)
+                //Libros atrasados ya que su fecha de devolucion es mayor a la fecha actual
+                LibrosAtrasados = todosLosPrestamos.Count(p => p.FechaDevolucion > DateTime.Now),
+                //Libros prestados el dia de hoy por que su fecha de prestamos es igual a la fecha actual
+                LibrosPrestados = todosLosPrestamos.Count(p => p.FechaPrestamo.Date == DateTime.Now.Date)
+
             };
 
             return View(viewModel);
@@ -41,6 +45,7 @@ namespace LibraryApp.Controllers
             {
                 return Problem("El contexto es nulo.");
             }
+
             var libros = from m in _context.Libros select m;
 
             if (!String.IsNullOrEmpty(buscar))

@@ -15,6 +15,16 @@
         <input type="submit" value="Buscar" /></p>
 </form>
 
+@if (!Model.Any())
+{
+    <div class="alert alert-danger text-center">
+        No hay libros con ese titulo.
+    </div>
+}
+else
+{
+   
+
 
 <table class="table">
     <thead>
@@ -53,3 +63,4 @@
 }
     </tbody>
 </table>
+}
