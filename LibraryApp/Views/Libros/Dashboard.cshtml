@@ -1,6 +1,7 @@
 ﻿
 @model LibraryApp.Models.LibrosDashboard
 
+
 @{
     ViewData["Title"] = "Dashboard de Libros";
 }
@@ -12,14 +13,14 @@
     </div>
 
     <hr class="my-4">
-    <div class="row text-center">
+    <div class="row text-center ">
         <div class="col-md-4 mb-4">
-            <div class="card shadow-sm">
+            <div class="card shadow-sm bg-info">
                 <div class="card-body">
-                    <h5 class="card-title text-muted">Total de Libros</h5>
+                    <h5 class="card-title">Total de Libros</h5>
                     
                     <div class="progress" role="progressbar" aria-label="Success example" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">
-                        <div class="progress-bar bg-success" style="width: @Model.TotalLibros%"></div>
+                        <div class="progress-bar bg-primary" style="width: @Model.TotalLibros%"></div>
                     </div>
 
                     <p class="card-text fs-1 fw-bold">@Model.TotalLibros</p>
@@ -29,11 +30,11 @@
         
 
         <div class="col-md-4 mb-4">
-            <div class="card shadow-sm">
+            <div class="card shadow-sm bg-secondary ">
                 <div class="card-body">
                     <h5 class="card-title">Libros Atrasados(Devolucion Pendiente)</h5>
                     <div class="progress" role="progressbar" aria-label="Info example" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100">
-                        <div class="progress-bar bg-success" style="width: @Model.LibrosAtrasados%"></div>
+                        <div class="progress-bar bg-danger" style="width: @Model.LibrosAtrasados%"></div>
                     </div>
                     <p class="card-text fs-1 fw-bold">@Model.LibrosAtrasados</p>
                 </div>
@@ -41,11 +42,11 @@
         </div>
 
         <div class="col-md-4 mb-4">
-            <div class="card shadow-sm">
+            <div class="card shadow-sm bg-warning">
                 <div class="card-body">
                     <h5 class="card-title">Libros Prestados el dia de hoy</h5>
                     <div class="progress" role="progressbar" aria-label="Danger example" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-                        <div class="progress-bar bg-success" style="width: @Model.LibrosPrestados%"></div>
+                        <div class="progress-bar bg-body" style="width: @Model.LibrosPrestados%"></div>
                     </div>
                     <p class="card-text fs-1 fw-bold">@Model.LibrosPrestados</p>
                 </div>

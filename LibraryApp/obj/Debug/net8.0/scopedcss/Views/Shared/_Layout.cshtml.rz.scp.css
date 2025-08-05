@@ -46,3 +46,8 @@ button.accept-policy[b-jgem7dxlzc] {
   white-space: nowrap;
   line-height: 60px;
 }
+
+.tarjeta-color[b-jgem7dxlzc] {
+    background-color: #007bff !important;
+    color: white !important;
+}

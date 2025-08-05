@@ -10,22 +10,41 @@
     <a asp-action="Create">Create New</a>
 </p>
 
-<form asp-controller="Libros" asp-action="Index" method="GET">
-    <p>Titulo: <input type="text" name="buscar" /> 
-        <input type="submit" value="Buscar" /></p>
+<form asp-controller="Libros" asp-action="Index" method="GET" class="d-flex mb-3" onsubmit="return validarBuscar();">
+    <input type="text" name="buscar" id="buscar" class="form-control me-2" placeholder="Buscar por título" style="max-width: 300px;"/>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+    
 </form>
+
+<script>
+    function validarBuscar() {
+        var buscar = document.getElementById('buscar').value.trim();
+        var alerta = document.getElementById('alertaCampoVacio');
+
+        if (buscar === "") {
+            alerta.style.display = 'block';
+            return false; 
+        }
+
+        alerta.style.display = 'none';
+        return true;
+    }
+</script>
+
+<div id="alertaCampoVacio" class="alert alert-danger text-center" style="display:none;">
+    Debe introducir un título.
+</div>
+
 
 @if (!Model.Any())
 {
-    <div class="alert alert-danger text-center">
+    <div class="alert alert-info text-center">
         No hay libros con ese titulo.
     </div>
 }
 else
 {
    
-
-
 <table class="table">
     <thead>
         <tr>
