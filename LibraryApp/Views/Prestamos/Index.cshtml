@@ -1,0 +1,68 @@
+﻿@model LibraryApp.Models.PrestamosIndexViewModel
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Lista de Préstamos</h1>
+
+<p>
+    <a asp-action="Create">Crear nuevo Préstamo</a>
+</p>
+<h2>Préstamos Activos</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Libro</th>
+            <th>Estudiante</th>
+            <th>Fecha Prestamo</th>
+            <th>Fecha Devolución</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.PrestamosActivos)
+        {
+            <tr>
+                <td>@item.Libro?.Titulo</td>
+                <td>@item.Estudiante</td>
+                <td>@item.FechaPrestamo</td>
+                <td>@(item.FechaDevolucion?.ToString("g") ?? "Sin devolver")</td>
+                <td>
+                    <form asp-action="Devolver" asp-route-id="@item.Id" method="post">
+                        <button type="submit" class="btn btn-success">Devolver</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<h2>Préstamos Devueltos</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Libro</th>
+            <th>Estudiante</th>
+            <th>Fecha Prestamo</th>
+            <th>Fecha Devolución</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.PrestamosDevueltos)
+        {
+            <tr>
+                <td>@item.Libro?.Titulo</td>
+                <td>@item.Estudiante</td>
+                <td>@item.FechaPrestamo</td>
+                <td>@item.FechaDevolucion?.ToString("g")</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id">Detalles</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

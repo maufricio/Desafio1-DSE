@@ -1,0 +1,59 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+
+# ASP.NET Core
+*.db
+*.db-shm
+*.db-wal
+*.log
+*.pdb
+
+# Environment files
+.env
+.env.*
+
+# User secrets
+**/secrets.json
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# DotCover
+*.dotCover
+
+# Test results
+TestResults/
+*.trx
+
+# Publish results
+publish/
+*.publish.xml
+
+# GitHub folder
+.github/

@@ -1,78 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\",
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\LibraryApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\views\\prestamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\prestamos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\migrations\\20250804060147_migracion_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\migrations\\20250804060147_migracion_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\views\\libros\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\libros\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\libros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\migrations\\librosdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\migrations\\librosdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\models\\librosdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\librosdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\views\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\libros\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\views\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\views\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\libros\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\libros\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\models\\librosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\librosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\views\\libros\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\libros\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\views\\prestamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\prestamos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\views\\prestamos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\prestamos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\views\\prestamos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\prestamos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\views\\prestamos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\views\\prestamos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\controllers\\libroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\admin\\source\\repos\\libraryapp\\libraryapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|c:\\users\\jacqu\\source\\repos\\desafio1-dse\\libraryapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{529789F9-3669-43EF-BFD2-662F33F30247}|LibraryApp\\LibraryApp.csproj|solutionrelative:libraryapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,244 +62,175 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp\\Views\\Libros\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Edit.cshtml",
+              "RelativeToolTip": "LibraryApp\\Views\\Libros\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T05:01:43.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "LibraryApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "LibraryApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp\\Views\\Libros\\Details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Details.cshtml",
+              "RelativeToolTip": "LibraryApp\\Views\\Libros\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-04T19:23:42.762Z",
+              "WhenOpened": "2025-08-07T05:01:21.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp\\Views\\Libros\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Delete.cshtml",
+              "RelativeToolTip": "LibraryApp\\Views\\Libros\\Delete.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T05:00:38.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp\\Views\\Libros\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Dashboard.cshtml",
+              "RelativeToolTip": "LibraryApp\\Views\\Libros\\Dashboard.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T05:00:21.531Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Libros\\Index.cshtml",
-              "RelativeDocumentMoniker": "LibraryApp\\Views\\Libros\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Libros\\Index.cshtml",
-              "RelativeToolTip": "LibraryApp\\Views\\Libros\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Prestamos\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp\\Views\\Prestamos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Prestamos\\Index.cshtml",
+              "RelativeToolTip": "LibraryApp\\Views\\Prestamos\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwEAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-04T19:27:10.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Libros\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "LibraryApp\\Views\\Libros\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Libros\\Dashboard.cshtml",
-              "RelativeToolTip": "LibraryApp\\Views\\Libros\\Dashboard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-04T20:10:52.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LibrosController.cs",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Controllers\\LibrosController.cs",
-              "RelativeDocumentMoniker": "LibraryApp\\Controllers\\LibrosController.cs",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Controllers\\LibrosController.cs",
-              "RelativeToolTip": "LibraryApp\\Controllers\\LibrosController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwC4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T19:24:32.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250804060147_Migracion_inicial.cs",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Migrations\\20250804060147_Migracion_inicial.cs",
-              "RelativeDocumentMoniker": "LibraryApp\\Migrations\\20250804060147_Migracion_inicial.cs",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Migrations\\20250804060147_Migracion_inicial.cs",
-              "RelativeToolTip": "LibraryApp\\Migrations\\20250804060147_Migracion_inicial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T01:00:12.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Libros\\Create.cshtml",
-              "RelativeDocumentMoniker": "LibraryApp\\Views\\Libros\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Libros\\Create.cshtml",
-              "RelativeToolTip": "LibraryApp\\Views\\Libros\\Create.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-04T21:45:21.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LibrosDBContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Migrations\\LibrosDBContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "LibraryApp\\Migrations\\LibrosDBContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Migrations\\LibrosDBContextModelSnapshot.cs",
-              "RelativeToolTip": "LibraryApp\\Migrations\\LibrosDBContextModelSnapshot.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T21:11:45.646Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "LibraryApp\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\appsettings.Development.json",
-              "RelativeToolTip": "LibraryApp\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-04T19:14:11.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryApp\\Program.cs",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Program.cs",
-              "RelativeToolTip": "LibraryApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T19:14:13.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LibrosDashboard.cs",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Models\\LibrosDashboard.cs",
-              "RelativeDocumentMoniker": "LibraryApp\\Models\\LibrosDashboard.cs",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Models\\LibrosDashboard.cs",
-              "RelativeToolTip": "LibraryApp\\Models\\LibrosDashboard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T19:50:08.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "LibraryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "LibraryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-04T22:12:21.357Z",
+              "WhenOpened": "2025-08-07T04:59:28.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Libros\\Details.cshtml",
-              "RelativeDocumentMoniker": "LibraryApp\\Views\\Libros\\Details.cshtml",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Libros\\Details.cshtml",
-              "RelativeToolTip": "LibraryApp\\Views\\Libros\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Prestamos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp\\Views\\Prestamos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Prestamos\\Edit.cshtml",
+              "RelativeToolTip": "LibraryApp\\Views\\Prestamos\\Edit.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-04T22:14:30.522Z",
+              "WhenOpened": "2025-08-07T04:59:12.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp\\Views\\Libros\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Create.cshtml",
+              "RelativeToolTip": "LibraryApp\\Views\\Libros\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T04:52:03.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp\\Views\\Libros\\Index.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Libros\\Index.cshtml",
+              "RelativeToolTip": "LibraryApp\\Views\\Libros\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T05:02:09.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Prestamos\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp\\Views\\Prestamos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Prestamos\\Details.cshtml",
+              "RelativeToolTip": "LibraryApp\\Views\\Prestamos\\Details.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T04:58:53.281Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "LibraryApp\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "LibraryApp\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Prestamos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp\\Views\\Prestamos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Prestamos\\Delete.cshtml",
+              "RelativeToolTip": "LibraryApp\\Views\\Prestamos\\Delete.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-04T19:23:32.674Z",
+              "WhenOpened": "2025-08-07T04:58:15.636Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Prestamos\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryApp\\Views\\Prestamos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Views\\Prestamos\\Create.cshtml",
+              "RelativeToolTip": "LibraryApp\\Views\\Prestamos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-07T04:57:53.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LibrosController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Controllers\\LibrosController.cs",
+              "RelativeDocumentMoniker": "LibraryApp\\Controllers\\LibrosController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Controllers\\LibrosController.cs",
+              "RelativeToolTip": "LibraryApp\\Controllers\\LibrosController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T04:52:28.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LibraryApp\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LibraryApp\\LibraryApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "LibraryApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T19:24:43.979Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Models\\Libro.cs",
-              "RelativeDocumentMoniker": "LibraryApp\\Models\\Libro.cs",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Models\\Libro.cs",
-              "RelativeToolTip": "LibraryApp\\Models\\Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T19:48:14.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Libros\\Delete.cshtml",
-              "RelativeDocumentMoniker": "LibraryApp\\Views\\Libros\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Views\\Libros\\Delete.cshtml",
-              "RelativeToolTip": "LibraryApp\\Views\\Libros\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-04T21:08:27.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "LibrosDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Models\\LibrosDBContext.cs",
-              "RelativeDocumentMoniker": "LibraryApp\\Models\\LibrosDBContext.cs",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Models\\LibrosDBContext.cs",
-              "RelativeToolTip": "LibraryApp\\Models\\LibrosDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T19:57:20.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "LibraryApp\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\jacqu\\source\\repos\\Desafio1-DSE\\LibraryApp\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "LibraryApp\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T19:14:04.113Z",
+              "WhenOpened": "2025-08-07T04:52:27.984Z",
               "EditorCaption": ""
             }
           ]
